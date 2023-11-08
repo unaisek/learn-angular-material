@@ -1,0 +1,19 @@
+.tabClass{
+    /* position: relative; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* top: 7em; */
+}
+mat-form-field {
+    display: flex;
+    flex-direction: column;
+    width: 350px !important;
+    width: 100%;
+}
+.card{
+    border: 1px solid darkblue;
+    border-radius: .5em;
+    padding: 10px;
+}
