@@ -10,10 +10,14 @@ mat-form-field {
     display: flex;
     flex-direction: column;
     width: 350px !important;
-    width: 100%;
+    /* width: 100%; */
+    padding: 5px;
 }
 .card{
     border: 1px solid darkblue;
     border-radius: .5em;
     padding: 10px;
+}
+.sumbit{
+    text-align: center;
 }
